@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - saralyst.qmd
       - about.qmd
 
 format:
@@ -16,5 +17,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
