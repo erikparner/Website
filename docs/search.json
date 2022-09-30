@@ -7,6 +7,13 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "advice.html",
+    "href": "advice.html",
+    "title": "Statistical advice",
+    "section": "",
+    "text": "Saralyst consult yder statistisk rådgivning. Konsulentfirmaet har mange år erfaring indenfor den sundhedsvidenskabelige forskningsområde."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website",
@@ -14,17 +21,10 @@
     "text": "This is the homepage of Erik Parner."
   },
   {
-    "objectID": "saralyst.html",
-    "href": "saralyst.html",
-    "title": "Saralyst consult",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Saralyst consult yder statistisk rådgivning. Konsulentfirmaet har mange år erfaring indenfor den sundhedsvidenskabelige forskningsområde."
-  },
-  {
-    "objectID": "advice.html",
-    "href": "advice.html",
-    "title": "Statistical advice",
-    "section": "",
-    "text": "Saralyst consult yder statistisk rådgivning. Konsulentfirmaet har mange år erfaring indenfor den sundhedsvidenskabelige forskningsområde."
+    "text": "https://erik-parner.shinyapps.io/conclusion/\nThis app is imspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org.\n\n\n\n\n\n\n\nConclusion generator"
   }
 ]

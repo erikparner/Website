@@ -8,11 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - teaching.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simple
     css: styles.css
     toc: true
 

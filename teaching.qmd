@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+## Conclusion generator
+
+[https://erik-parner.shinyapps.io/conclusion/](https://erik-parner.shinyapps.io/conclusion/)
+
+This app is imspired by the Peter Bacchetti's lecture on "Common Biostatistical Problems and the Best Practices that Prevent Them" and a conclusion generator that used to be on 
+[ctspedia.org](ctspedia.org). 
+
+
+::: {.column-margin}
+![Conclusion generator](images/conclusion_app.png)
+:::
+
+
+
+
+
+
