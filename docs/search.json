@@ -1,23 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website",
     "section": "",
-    "text": "This is the homepage of Erik Parner."
+    "text": "I work as professor in biostatistics at the Department of Public Health, Aarhus University."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "https://erik-parner.shinyapps.io/conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org.\n\n\n\n\n\n\n\nConclusion generator"
+    "text": "https://erik-parner.shinyapps.io/conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org. The app creates a conclusion for an abstract of a scientific paper based on the estimates and confidence intervals, and interpretation of estimate and confidence limits.\n\n\n\n\n\n\n\nConclusion generator"
   }
 ]

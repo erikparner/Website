@@ -3,3 +3,5 @@ title: "Website"
 ---
 
 This is the homepage of Erik Parner.
+
+I work as professor in biostatistics at the Department of Public Health, Aarhus University.
