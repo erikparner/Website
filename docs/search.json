@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Website",
     "section": "",
-    "text": "I work as professor in biostatistics at the Department of Public Health, Aarhus University."
+    "text": "I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology.\nInformation on statistical advice and analysis can be found here"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "https://erik-parner.shinyapps.io/conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org. The app creates a conclusion for an abstract of a scientific paper based on the estimates and confidence intervals, and interpretation of estimate and confidence limits.\n\n\n\n\n\n\n\nConclusion generator"
+    "text": "https://erik-parner.shinyapps.io/conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org. The app creates a conclusion for an abstract intented for a scientific paper based on the value and interpretation of the estimate and confidence interval.\n\n\n\n\n\n\n\nConclusion generator"
   }
 ]
