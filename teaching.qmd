@@ -6,8 +6,7 @@ title: "Teaching"
 
 [https://erik-parner.shinyapps.io/conclusion/](https://erik-parner.shinyapps.io/conclusion/)
 
-This app is inspired by the Peter Bacchetti's lecture on "Common Biostatistical Problems and the Best Practices that Prevent Them" and a conclusion generator that used to be on 
-[ctspedia.org](ctspedia.org). The app creates a conclusion intended for an abstract of a scientific paper based on the value and interpretation of the estimate and confidence interval. The app has two modes: *Stat* is the default mode and the mode *MD*, which is not recommended, is only included for completeness. 
+This app is inspired by the Peter Bacchetti's lecture on "Common Biostatistical Problems and the Best Practices that Prevent Them" and a conclusion generator that used to be on [ctspedia.org](ctspedia.org). The app creates a conclusion intended for an abstract of a scientific paper based on the value and interpretation of the estimate and confidence interval. The app has two modes: *Stat* is the default mode and the mode *MD*, which is not recommended, is only included for completeness. 
 
 
 ::: {.column-margin}
