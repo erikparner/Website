@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology. Currently, I work with the prioritized event data."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n1995: MSc, University of Aarhus.\n1997: PhD, University of Aarhus (“Inference in Semiparametric Frailty Models”)"
+  },
+  {
+    "objectID": "about.html#positions",
+    "href": "about.html#positions",
+    "title": "About",
+    "section": "Positions",
+    "text": "Positions\n1997-2000: Assistant Professor, Department of Biostatistics, University of Aarhus.\n2001-2011: Associate Professor, Department of Biostatistics, University of Aarhus.\n2011-: Professor, Department of Biostatistics, University of Aarhus."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website",
     "section": "",
-    "text": "I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology.\nInformation on statistical advice and analysis can be found here."
+    "text": "Information on statistical advice and analysis can be found here."
   },
   {
     "objectID": "teaching.html",

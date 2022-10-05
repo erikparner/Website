@@ -1,0 +1,30 @@
+---
+title: "About"
+about:
+  template: solana
+  image: images/profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology. Currently, I work with the prioritized event data.
+
+## Education
+
+1995:	MSc, University of Aarhus.
+        
+1997: PhD, University of Aarhus (“Inference in Semiparametric Frailty Models”)
+
+## Positions
+
+1997-2000: Assistant Professor, Department of Biostatistics, University of Aarhus.
+
+2001-2011: Associate Professor, Department of Biostatistics, University of Aarhus.
+
+2011-: Professor, Department of Biostatistics, University of Aarhus.
+

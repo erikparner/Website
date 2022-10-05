@@ -4,6 +4,4 @@ title: "Website"
 
 This is the homepage of Erik Parner.
 
-I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology.
-
 Information on statistical advice and analysis can be found  [here](https://erikparner.github.io/Saralyst/).
