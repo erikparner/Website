@@ -6,13 +6,13 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/EParner
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/erikparner
 ---
 
-I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology. Currently, I work with the prioritized event data.
+I work as professor in biostatistics at the Department of Public Health, Aarhus University. My research area is time-to-event analysis and statistical methods in epidemiology. Currently, I work with developing new statistical methods for prioritized event data.
 
 ## Education
 
