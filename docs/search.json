@@ -32,6 +32,13 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "https://apps.biostat.au.dk/erikparner/Conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org. The app creates a conclusion intended for an abstract of a scientific paper based on the value and interpretation of the estimate and confidence interval. The app has two modes: Stat is the default mode and the mode MD, which is not recommended, is only included for completeness.\n\n\n\n\n\n\n\nConclusion generator"
+    "text": "Conclusion generator\n\n\nhttps://apps.biostat.au.dk/erikparner/Conclusion/\nThis app is inspired by the Peter Bacchetti’s lecture on “Common Biostatistical Problems and the Best Practices that Prevent Them” and a conclusion generator that used to be on ctspedia.org. The app creates a conclusion intended for an abstract of a scientific paper based on the value and interpretation of the estimate and confidence interval. The app has two modes: Stat is the default mode and the mode MD, which is not recommended, is only included for completeness."
+  },
+  {
+    "objectID": "teaching.html#qq-generator",
+    "href": "teaching.html#qq-generator",
+    "title": "Teaching",
+    "section": "QQ generator",
+    "text": "QQ generator\n\n\n\n\n\nQQ generator\n\n\nhttps://apps.biostat.au.dk/erikparner/QQ-generator/\nThis app simulates QQ-plots."
   }
 ]
