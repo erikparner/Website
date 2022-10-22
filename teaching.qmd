@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## Conclusion generator
 
-::: {.column-margin}
+::: {.column-margin width="40%"}
 ![Conclusion generator](images/conclusion_app.png)
 :::
 
@@ -15,13 +15,13 @@ This app is inspired by the Peter Bacchetti's lecture on "Common Biostatistical 
 
 ## QQ generator
 
-::: {.column-margin}
-![QQ generator](images/qq-generator-app.png)
-:::
-
 [https://apps.biostat.au.dk/erikparner/QQ-generator/](https://apps.biostat.au.dk/erikparner/QQ-generator/)
 
 This app simulates QQ-plots. 
+
+::: {.column-margin width="40%"}
+![QQ generator](images/qq-generator-app.png)
+:::
 
 
 
