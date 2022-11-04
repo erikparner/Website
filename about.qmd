@@ -1,8 +1,9 @@
 ---
 title: "About"
+image: images/profile.jpg
+image-alt: "Photo by Therese Grønborg"
 about:
   template: solana
-  image: images/profile.jpg
   links:
     - icon: twitter
       text: twitter
