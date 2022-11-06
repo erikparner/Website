@@ -39,6 +39,6 @@
     "href": "teaching.html#qq-generator",
     "title": "Teaching",
     "section": "QQ generator",
-    "text": "QQ generator\nhttps://apps.biostat.au.dk/erikparner/QQ-generator/\nThis app simulates QQ-plots with a given number of observation. The user can set the principle of generating the QQ-plot: line-type=“Full range” uses all observations to determine the line; line-type=“25-75 percentile” uses the data between the 25 and 75 percentile to determine the line; and line-type=“2.5-97.5 percentile” uses the data between the 2.5 and 97.5 percentile to determine the line. The QQ-plot can be compared to data from a Excel file (first column is assumed to contain the data with no variable name).\n\n\n\n\n\n\n\nQQ generator"
+    "text": "QQ generator\nhttps://apps.biostat.au.dk/erikparner/QQ-generator/\nThis app simulates QQ-plots with a given number of observation. The user can set the principle of generating the QQ-plot:\n\nline-type=“Full range” uses all observations to determine the line; line-type=“25-75 percentile” uses the data between the 25 and 75 percentile to determine the line; and line-type=“2.5-97.5 percentile” uses the data between the 2.5 and 97.5 percentile to determine the line.\n\nThe QQ-plot can be compared to data from a Excel file (first column is assumed to contain the data with no variable name). The Quiz mode can then be selected and here the user can try to guess the location of own data.\n\n\n\n\n\n\n\nQQ generator"
   }
 ]
